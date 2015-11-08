@@ -14,9 +14,8 @@ Order #3 for myself with this triple peanut butter burger -_-
         <topping type="salsa"/>
         <topping type="shrooms"/>
         <topping type="bacon"/>
-        <sauce type="peanutbutter"/>
-        <sauce type="peanutbutter"/>
-        <sauce type="peanutbutter"/>
+        <sauce type="fksauce"/>
         <sauce type="mayo"/>
+        <instructions>add peanut butter on it</instructions>
     </burger>    
 </order>
