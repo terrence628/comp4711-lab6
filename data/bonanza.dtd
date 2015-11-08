@@ -54,7 +54,7 @@ and one on bottom, and provide for unique codes for these. -->
 <!-- Sauces are similar to toppings -->
 <!ELEMENT sauce EMPTY>
 <!ATTLIST sauce
-    type    (ketchup|mustard|mayo|fksauce|peanutbutter) #REQUIRED
+    type    (ketchup|mustard|mayo|fksauce) #REQUIRED
 >
 
 <!-- Instructions canbe literally anything -->
