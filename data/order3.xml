@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Order #3 for myself with this triple peanut butter burger -_-
+-->
+
+<!DOCTYPE order SYSTEM 'bonanza.dtd'>
+
+<order type="eatin">
+    <customer>Terrence Lam</customer>
+    <burger>
+        <patty type="pork"/>
+        <cheeses top="blue" bottom="brie"/>
+        <topping type="raw"/>
+        <topping type="salsa"/>
+        <topping type="shrooms"/>
+        <topping type="bacon"/>
+        <sauce type="peanutbutter"/>
+        <sauce type="peanutbutter"/>
+        <sauce type="peanutbutter"/>
+        <sauce type="mayo"/>
+    </burger>    
+</order>
